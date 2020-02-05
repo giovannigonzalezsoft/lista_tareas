@@ -1,0 +1,42 @@
+body{
+    background-color: floralwhite;
+}
+
+.ing{
+    width: 200px;
+    height: 200px;
+    float: right;
+    margin: 10px; 
+    border: 2px solid black;
+}
+.uas{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 10px; 
+    border: 2px solid black;
+}
+
+
+h1, h2{
+   color: brown;
+   text-align: center;
+   border: 5px solid cadetblue;
+   width: 600px;
+   border-radius: 10px;
+   border-collapse: collapse;
+   padding: 35px;
+   font-family: monospace;
+
+}
+
+
+ul{
+    color: blueviolet;
+    list-style-type:decimal;
+}
+
+li:hover{
+font-size: 25px;
+color:red;
+}
